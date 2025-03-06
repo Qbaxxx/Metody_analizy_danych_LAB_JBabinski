@@ -1,1 +1,1 @@
-# Metody_analizy_danych_LAB
+# Metody_analizy_danych_LAB_JBabinski
